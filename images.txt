@@ -1,1 +1,1 @@
-louislam/uptime-kuma:1.23.16-alpine
+alpine:3.19.1
